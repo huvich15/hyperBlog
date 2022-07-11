@@ -1,7 +1,7 @@
 body
 {
     background: #1e1f24;
-    color: #333;
+    color: white;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -42,12 +42,10 @@ body
      font-weight: normal;
      font-size: 0.8em;
 }
-#container h1
+#footer
 {
-    font-size: 20px;
-}
-#post
-{
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
